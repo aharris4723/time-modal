@@ -1,0 +1,133 @@
+.body{
+	background-image: url("fakecompanyimg.png");
+	background-position: stretch;
+	height: 600px;
+	width: 600px;
+}
+/*#pageone{
+	background-image: url("fakecompanyimg.png");
+   position: fixed;
+	height: 600px;
+	width: 600px;
+
+}*/
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    font-size: 50px;
+    color: red;
+    background-color: skyblue;
+    border: 2px solid;
+    width: 800px;
+}
+li{
+display: inline;
+
+
+}
+#home-photo{
+	height: 400px;
+	width: 600px;
+	background-color: green;
+	border: 2px solid;
+	background-image: url("home-pagepic.jpg");
+	position: absolute;
+	top: 25%;
+	left: 3%;
+
+}
+.para1{
+	height: 300px;
+	width: : 100px;
+	margin-top:25px;
+	border: 10px solid;
+	background-color: skyblue;
+	text-align: center;
+	font-size: 20pt;
+	position: absolute;
+	top: 30%;
+	left: 48%;
+}
+#modal{
+	border: 2px solid skyblue;
+	width: 400px;
+	height: 400px;
+	position: absolute; 
+	left:30%;
+	top: 20%;
+	background-color: white;
+	opacity: 1;
+	display: none;
+}
+#closebutton{
+	border: 2px solid red;
+	height: 10px;
+	width: 10px;
+	position: absolute;
+	left: 98%;
+	top:-.8%;
+    background-color: red;
+	
+}
+#x{
+	position: absolute;
+	top: -20%; 
+	left:1%;
+	text-align: center;
+}
+#welcome{
+	border: 2px solid white;
+	width: 200px;
+	height: 100px;
+	font: 10px;
+	background-color:;
+	position: absolute;
+	top: 10%;
+	left:25%;
+	opacity: .01%;
+
+}
+#greetingstext{
+	margin: 0 auto;
+	position: absolute;
+	text-align: center;
+	
+}
+#email-box{
+	text-align: center;
+}
+h1{
+	color: blue;
+	text-align: center;
+	font-size: 20pt;
+	font-style: oblique;
+	text-transform: uppercase;
+}
+#popuptextbox{
+	border: 2px solid white;
+	width: 350px;
+	height: 180px;
+	font: 10px;
+	background-color:;
+	position: absolute;
+	top: 48%;
+	left:5%;
+	opacity: .01%;
+
+}
+#dummytext{
+	font-size: 15pt;
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+/*#page2{
+	margin: 0px auto;
+	background-image: url("workplaceimg.jpg");
+	border: 2px solid black;
+	height: 600px;
+	width: 600px;
+	background-color: black;
+	position: fixed;
+}*/
